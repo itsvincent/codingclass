@@ -1,6 +1,37 @@
-body {
-	font-size: 0.8em;
-	font-family: arial, sans-serif;
-}
+   .page-navigation {
+   background-color: #FF6600;
+   color: #FFF;
+   height: 35px;
+   }
+   	
+   .page-navigation ul {
+     list-style: none;
+   }
 
-strong{bold}
+   .page-navigation ul li {
+   	 padding: 0 15px;
+   float: left;
+       line-height: 30px;
+   }
+
+  .page-navigation ul li a 
+     color: #fff;
+ text-decoration: none;
+ font-weight: bold;
+ font-size: 20px;
+} 
+
+.page-navigation ul li a:hover {
+	color: #333;
+    text-decoration: underline;
+}
+ .index-title{
+ 	color: #0099CC
+ }
+
+ favorite-links li a:hover {
+ 	 color: pink;
+ }
+     
+     
+ }
